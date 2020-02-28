@@ -1,4 +1,4 @@
-ever wanted a calculator, that insults you fir your inablility to compute the
+ever wanted a calculator, that insults you for your inablility to compute the
 expressions you type in?
 
 me neither.
